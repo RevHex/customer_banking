@@ -1,4 +1,4 @@
-# Savings and CD Account Interest Calculator
+# Account Interest Calculator for Savings and CDs
 
 ## Overview
 
